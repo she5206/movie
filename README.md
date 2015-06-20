@@ -12,6 +12,10 @@ Completed user stories:
  * [x] Required: User can pull to refresh the movie list. Guide: Using UIRefreshControl
  * [x] Optional: Add a search bar.
 
+Tips:
+POD - https://cocoapods.org/
+Rottoen Tomato API Application - http://developer.rottentomatoes.com/apps/mykeys
+
 Walkthrough of all user stories:
 
 ![Video Walkthrough](movie_demo.gif)
